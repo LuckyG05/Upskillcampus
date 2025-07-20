@@ -51,8 +51,10 @@ This project contains the following key files:
 
 GitHub Links
 Here are the direct links to the project files on GitHub:
-* **Project Code:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py)
-* **Internship Report:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf)
+
+Project Code: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
+
+Internship Report: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
 
 Features Implemented
 User Interaction: Implemented through a simple Command Line Interface (CLI).
