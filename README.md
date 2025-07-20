@@ -6,7 +6,11 @@ The game allows users to attempt multiple-choice questions, tracks their scores,
 
 ---
 
+<<<<<<< HEAD
 ##  Project Objective
+=======
+## Project Objective
+>>>>>>> ee774269addc86505d2a82bdf69cd139e8d9e0c4
 
 The primary goal of this project was to develop a simple yet interactive Command Line Interface (CLI) based quiz application in Python that achieves the following:
 
@@ -18,12 +22,21 @@ The primary goal of this project was to develop a simple yet interactive Command
 
 ---
 
+<<<<<<< HEAD
 ## How to Run the Project
 
 ###  Requirements:
 Make sure you have **Python 3.x** installed on your system.
 
 ### Steps to Run:
+=======
+##  How to Run the Project
+
+### Requirements:
+Make sure you have **Python 3.x** installed on your system.
+
+###  Steps to Run:
+>>>>>>> ee774269addc86505d2a82bdf69cd139e8d9e0c4
 Follow these commands in your terminal or command prompt:
 
 ```bash
@@ -35,7 +48,6 @@ cd Upskillcampus
 
 # Run the main quiz game program
 python quizgame.py
-
 Project Structure
 This project contains the following key files:
 | File Name                              | Description                                                               |
@@ -47,7 +59,10 @@ This project contains the following key files:
 
 GitHub Links
 Here are the direct links to the project files on GitHub:
+<<<<<<< HEAD
 
+=======
+>>>>>>> ee774269addc86505d2a82bdf69cd139e8d9e0c4
 * **Project Code:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py)
 * **Internship Report:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf)
 
@@ -77,3 +92,8 @@ Project Title: Quiz Game
 
 Acknowledgements
 I extend my sincere gratitude to my mentors and coordinators at Upskill Campus and UniConverge Technologies Pvt. Ltd (UCT). Their structured guidance, weekly tasks, and the invaluable platform provided were crucial for my learning and growth through this real-world project experience.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ee774269addc86505d2a82bdf69cd139e8d9e0c4
