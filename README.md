@@ -35,7 +35,6 @@ cd Upskillcampus
 
 # Run the main quiz game program
 python quizgame.py
-
 Project Structure
 This project contains the following key files:
 | File Name                              | Description                                                               |
@@ -47,10 +46,8 @@ This project contains the following key files:
 
 GitHub Links
 Here are the direct links to the project files on GitHub:
-
-Project Code: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
-
-Internship Report: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
+* **Project Code:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py)
+* **Internship Report:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf)
 
 Features Implemented
 User Interaction: Implemented through a simple Command Line Interface (CLI).
@@ -65,5 +62,16 @@ Modular Design: Utilized functions to create cleaner, more organized, and reusab
 
 Internship Details
 Internship Platform: Upskill Campus
+
+Industry Partner: UniConverge Technologies Pvt. Ltd (UCT)
+
+Internship Duration: 6 Weeks
+
+Domain: Python Development
+
+Project Title: Quiz Game
+
+Acknowledgements
+I extend my sincere gratitude to my mentors and coordinators at Upskill Campus and UniConverge Technologies Pvt. Ltd (UCT). Their structured guidance, weekly tasks, and the invaluable platform provided were crucial for my learning and growth through this real-world project experience.
 
 
