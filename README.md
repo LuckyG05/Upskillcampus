@@ -1,24 +1,34 @@
-Quiz Game – Python Project
-This repository hosts a command-line based Quiz Game developed using Python. This project was completed as part of my internship with Upskill Campus in collaboration with UniConverge Technologies Pvt. Ltd (UCT).
+#  Quiz Game – Python Project
+
+This repository hosts a command-line based **Quiz Game** developed using Python. This project was completed as part of my internship with **Upskill Campus** in collaboration with **UniConverge Technologies Pvt. Ltd (UCT)**.
+
 The game allows users to attempt multiple-choice questions, tracks their scores, and maintains a scoreboard for future reference.
 
-Project Objective
+---
+
+##  Project Objective
+
 The primary goal of this project was to develop a simple yet interactive Command Line Interface (CLI) based quiz application in Python that achieves the following:
 
-Presents a series of multiple-choice questions to the user.
-Accepts and validates user input for answers.
-Accurately calculates and displays the user’s score at the end of each quiz session.
-Saves each user's score persistently in a dedicated scoreboard file.
-Displays the history of previous user scores after each quiz attempt, providing a continuous record.
+-   Presents a series of multiple-choice questions to the user.
+-   Accepts and validates user input for answers.
+-   Accurately calculates and displays the user’s score at the end of each quiz session.
+-   Saves each user's score persistently in a dedicated `scoreboard.txt` file.
+-   Displays the history of previous user scores after each quiz attempt, providing a continuous record.
 
-How to Run the Project
-Requirements:
-Make sure you have Python 3.x installed on your system.
+---
 
-Steps to Run:
+## How to Run the Project
+
+###  Requirements:
+Make sure you have **Python 3.x** installed on your system.
+
+### Steps to Run:
 Follow these commands in your terminal or command prompt:
+
+```bash
 # Clone the repository to your local machine
-git clone https://github.com/LuckyG05/Upskillcampus.git
+git clone [https://github.com/LuckyG05/Upskillcampus.git](https://github.com/LuckyG05/Upskillcampus.git)
 
 # Navigate into the project directory
 cd Upskillcampus
@@ -38,9 +48,8 @@ This project contains the following key files:
 GitHub Links
 Here are the direct links to the project files on GitHub:
 
-Project Code: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
-
-Internship Report: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
+* **Project Code:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py)
+* **Internship Report:** [https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf](https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf)
 
 Features Implemented
 User Interaction: Implemented through a simple Command Line Interface (CLI).
@@ -52,6 +61,8 @@ Input Validation: Robust error handling ensures only valid inputs are accepted f
 File-based Scoreboard: User scores are persistently stored and retrieved from a scoreboard.txt file.
 
 Modular Design: Utilized functions to create cleaner, more organized, and reusable code.
+
+---
 
 Internship Details
 Internship Platform: Upskill Campus
