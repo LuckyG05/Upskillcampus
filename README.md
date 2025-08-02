@@ -44,6 +44,8 @@ This project contains the following key files:
 | `quizgame_LuckyGautam_USC_UCT.pdf`     | The final project report for the internship, detailing the project's development and outcomes. |
 | `README.md`                            | This file, providing an overview of the project and instructions.         |
 
+---
+
 ## GitHub Links
 Here are the direct links to the project files on GitHub:
 
@@ -52,6 +54,8 @@ https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
 
 ### Internship Report: 
 https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
+
+---
 
 ## Features Implemented:
 ### User Interaction: 
@@ -65,6 +69,7 @@ User scores are persistently stored and retrieved from a scoreboard.txt file.
 ### Modular Design: 
 Utilized functions to create cleaner, more organized, and reusable code.
 
+---
 
 ## Internship Details:
 Internship Platform: Upskill Campus
@@ -77,6 +82,7 @@ Domain: Python Development
 
 Project Title: Quiz Game
 
+---
 
 ## Acknowledgements:
 I extend my sincere gratitude to my mentors and coordinators at Upskill Campus and UniConverge Technologies Pvt. Ltd (UCT). Their structured guidance, weekly tasks, and the invaluable platform provided were crucial for my learning and growth through this real-world project experience.
