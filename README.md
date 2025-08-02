@@ -20,18 +20,13 @@ The primary goal of this project was to develop a simple yet interactive Command
 
 ## How to Run the Project
 
-###  Requirements:
-Make sure you have **Python 3.x** installed on your system.
-
-### Steps to Run:
-
 ### Requirements:
 Make sure you have **Python 3.x** installed on your system.
 
 ###  Steps to Run
 Follow these commands in your terminal or command prompt:
 
-```bash
+
 # Clone the repository to your local machine
 git clone [https://github.com/LuckyG05/Upskillcampus.git](https://github.com/LuckyG05/Upskillcampus.git)
 
@@ -49,35 +44,37 @@ This project contains the following key files:
 | `quizgame_LuckyGautam_USC_UCT.pdf`     | The final project report for the internship, detailing the project's development and outcomes. |
 | `README.md`                            | This file, providing an overview of the project and instructions.         |
 
-GitHub Links
+# GitHub Links
 Here are the direct links to the project files on GitHub:
 
-Project Code: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
+# Project Code: 
+https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
 
-Internship Report: https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
+# Internship Report: 
+https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
 
-Features Implemented
+# Features Implemented:
 User Interaction: Implemented through a simple Command Line Interface (CLI).
 
-Score Tracking: Tracks the user's score throughout the quiz and displays it upon completion.
+# Score Tracking: 
+Tracks the user's score throughout the quiz and displays it upon completion.
 
-Input Validation: Robust error handling ensures only valid inputs are accepted from the user.
+# Input Validation: 
+Robust error handling ensures only valid inputs are accepted from the user.
 
-File-based Scoreboard: User scores are persistently stored and retrieved from a scoreboard.txt file.
+# File-based Scoreboard: 
+User scores are persistently stored and retrieved from a scoreboard.txt file.
 
-Modular Design: Utilized functions to create cleaner, more organized, and reusable code.
+# Modular Design: 
+Utilized functions to create cleaner, more organized, and reusable code.
 
-Internship Details
+# Internship Details:
 Internship Platform: Upskill Campus
-
 Industry Partner: UniConverge Technologies Pvt. Ltd (UCT)
-
 Internship Duration: 6 Weeks
-
 Domain: Python Development
-
 Project Title: Quiz Game
 
-Acknowledgements
+# Acknowledgements:
 I extend my sincere gratitude to my mentors and coordinators at Upskill Campus and UniConverge Technologies Pvt. Ltd (UCT). Their structured guidance, weekly tasks, and the invaluable platform provided were crucial for my learning and growth through this real-world project experience.
 
