@@ -70,10 +70,15 @@ Utilized functions to create cleaner, more organized, and reusable code.
 
 # Internship Details:
 Internship Platform: Upskill Campus
+
 Industry Partner: UniConverge Technologies Pvt. Ltd (UCT)
+
 Internship Duration: 6 Weeks
+
 Domain: Python Development
+
 Project Title: Quiz Game
+
 
 # Acknowledgements:
 I extend my sincere gratitude to my mentors and coordinators at Upskill Campus and UniConverge Technologies Pvt. Ltd (UCT). Their structured guidance, weekly tasks, and the invaluable platform provided were crucial for my learning and growth through this real-world project experience.
