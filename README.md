@@ -54,19 +54,17 @@ https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame.py
 https://github.com/LuckyG05/Upskillcampus/blob/main/quizgame_LuckyGautam_USC_UCT.pdf
 
 ## Features Implemented:
-User Interaction: Implemented through a simple Command Line Interface (CLI).
-
-## Score Tracking: 
+### User Interaction: 
+Implemented through a simple Command Line Interface (CLI).
+### Score Tracking: 
 Tracks the user's score throughout the quiz and displays it upon completion.
-
-## Input Validation: 
+### Input Validation: 
 Robust error handling ensures only valid inputs are accepted from the user.
-
-## File-based Scoreboard: 
+### File-based Scoreboard: 
 User scores are persistently stored and retrieved from a scoreboard.txt file.
-
-## Modular Design: 
+### Modular Design: 
 Utilized functions to create cleaner, more organized, and reusable code.
+
 
 ## Internship Details:
 Internship Platform: Upskill Campus
