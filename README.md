@@ -29,7 +29,7 @@ Follow these commands in your terminal or command prompt:
 
 ### Clone the repository to your local machine
 ```bash
-git clone [https://github.com/LuckyG05/Upskillcampus.git](https://github.com/LuckyG05/Upskillcampus.git)
+git clone https://github.com/LuckyG05/Upskillcampus.git
 ```
 
 ### Navigate into the project directory
